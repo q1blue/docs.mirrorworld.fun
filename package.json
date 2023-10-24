@@ -31,7 +31,7 @@
     "@chakra-ui/react": "2.2.4",
     "@chakra-ui/system": "1.12.1",
     "@chakra-ui/theme": "1.14.1",
-    "@code-hike/mdx": "^0.7.4",
+    "@code-hike/mdx": "^0.9.0",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@fontsource/dm-sans": "^4.5.7",
