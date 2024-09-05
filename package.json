@@ -22,7 +22,7 @@
     "deps": "pnpm upgrade --scope @zag-js --latest"
   },
   "dependencies": {
-    "@chakra-ui/cli": "1.9.0",
+    "@chakra-ui/cli": "2.4.1",
     "@chakra-ui/icon": "2.0.5",
     "@chakra-ui/icons": "^2.0.14",
     "@chakra-ui/layout": "1.8.0",
@@ -50,7 +50,7 @@
     "change-case": "^4.1.2",
     "cloudinary-build-url": "^0.2.4",
     "consola": "^2.15.3",
-    "contentlayer": "^0.2.9",
+    "contentlayer": "^0.3.3",
     "copy-to-clipboard": "^3.3.3",
     "cross-env": "^7.0.3",
     "focus-visible": "^5.2.0",
@@ -62,7 +62,7 @@
     "match-sorter": "^6.3.1",
     "mixgather": "^1.0.1",
     "next": "^12.1.5",
-    "next-contentlayer": "^0.2.9",
+    "next-contentlayer": "^0.3.3",
     "next-seo": "^5.4.0",
     "next-sitemap": "^3.1.45",
     "outdent": "^0.8.0",
